@@ -23,7 +23,7 @@ https://api.coincap.io/v2/rates
 https://api.coincap.io/v2/assets
 
 I also had to use https://api.coincap.io/v2/candles, but for some reason, when I followed the link, there was simply no data. So, I tried to use the Github API, 
-but I received a 403 error and couldn't resolve it.
+but I received a 403 error and couldn't resolve it. Therefore, for the candlestick chart, I used a JSON file in the project.
 
 The project supports three languages (Ukrainian, French, and English) and two themes (light and dark). I tried to use the MVVM pattern, but I encountered problems with the 
 ViewModels and couldn't implement it. However, in the future, I will definitely fix this project and upload an updated version so that everyone interested can learn from it 
