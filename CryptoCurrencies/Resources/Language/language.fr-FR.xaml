@@ -1,0 +1,48 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="englishLanguage">English</system:String>
+    <system:String x:Key="ukraineLanguage">Українська</system:String>
+    <system:String x:Key="franceLanguage">Française</system:String>
+    <system:String x:Key="chooseOption">Choisissez une option</system:String>
+    <system:String x:Key="reviewChart">Examen du graphique en chandelier</system:String>
+    <system:String x:Key="convertCurrency">Convertir la devise</system:String>
+    <system:String x:Key="viewInformation">Consulter et trouver des informations sur la devise</system:String>
+    <system:String x:Key="popularCurrencies">Les devises les plus populaires</system:String>
+    <system:String x:Key="UpdateGraphButton">Mettre à jour le graphique</system:String>
+    <system:String x:Key="FindElementButton">Trouver la devise</system:String>
+    <system:String x:Key="BackButton">Retour au menu principal</system:String>
+    <system:String x:Key="nameCoin">Nom</system:String>
+    <system:String x:Key="rankCoin">Classement</system:String>
+    <system:String x:Key="symbolCoin">Symbole</system:String>
+    <system:String x:Key="sypplyCoin">Offre</system:String>
+    <system:String x:Key="maxSypplyCoin">Offre maximale</system:String>
+    <system:String x:Key="marketCapUsdCoin">Capitalisation boursière($)</system:String>
+    <system:String x:Key="volumeUsd24HrCoin">Volume 24h($)</system:String>
+    <system:String x:Key="priceUsd">Prix</system:String>
+    <system:String x:Key="changePercent24HrCoin">Changement en 24h(%)</system:String>
+    <system:String x:Key="vwap24HrCoin">VWAP en 24h</system:String>
+    <system:String x:Key="explorerCoin">Lien</system:String>
+    <system:String x:Key="minimizeWindow">Minimiser</system:String>
+    <system:String x:Key="closeWindow">Fermer</system:String>
+    <system:String x:Key="themesSlider">Changer le thème</system:String>
+    <system:String x:Key="outputCurrency">Données de sortie</system:String>
+    <system:String x:Key="inputCurrency">Données d'entrée</system:String>
+    <system:String x:Key="NationalCurrency">Monnaie nationale et cryptomonnaie</system:String>
+    <system:String x:Key="convertCurrencyButton">Convertir</system:String>
+    <system:String x:Key="rankCoinToolTip">Position dans le classement</system:String>
+    <system:String x:Key="nameCoinToolTip">Nom approprié pour l'actif</system:String>
+    <system:String x:Key="symbolCoinToolTip">Symbole le plus couramment utilisé pour identifier cet actif sur une bourse</system:String>
+    <system:String x:Key="sypplyCoinToolTip">Offre disponible pour la négociation</system:String>
+    <system:String x:Key="maxSypplyCoinToolTip">Quantité totale de l'actif émis</system:String>
+    <system:String x:Key="marketCapUsdCoinToolTip">Offre x prix</system:String>
+    <system:String x:Key="volumeUsd24HrCoinToolTip">Quantité du volume des transactions représentée en USD au cours des dernières 24 heures</system:String>
+    <system:String x:Key="priceUsdToolTip">Prix pondéré basé sur des données de marché en temps réel, traduit en USD</system:String>
+    <system:String x:Key="changePercent24HrCoinToolTip">La direction et le changement de valeur au cours des dernières 24 heures</system:String>
+    <system:String x:Key="vwap24HrCoinToolTip">Prix moyen pondéré par le volume au cours des dernières 24 heures</system:String>
+    <system:String x:Key="explorerCoinToolTip">Site de l'actif</system:String>
+    <system:String x:Key="ChooseRadioButton">Entrer</system:String>
+    <system:String x:Key="EnterRadioButton">Sélectionner</system:String>
+
+</ResourceDictionary>

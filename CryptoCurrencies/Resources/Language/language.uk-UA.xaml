@@ -1,0 +1,48 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="englishLanguage">English</system:String>
+    <system:String x:Key="ukraineLanguage">Українська</system:String>
+    <system:String x:Key="franceLanguage">Française</system:String>
+    <system:String x:Key="chooseOption">Виберіть операцію</system:String>
+    <system:String x:Key="reviewChart">Огляд свічкового графіка</system:String>
+    <system:String x:Key="convertCurrency">Конвертувати валюту</system:String>
+    <system:String x:Key="viewInformation">Переглянути і знайти інформацію про валюту</system:String>
+    <system:String x:Key="popularCurrencies">Найпопулярніші валюти</system:String>
+    <system:String x:Key="UpdateGraphButton">Оновити графік</system:String>
+    <system:String x:Key="FindElementButton">Знайти валюту</system:String>
+    <system:String x:Key="BackButton">Назад до головного меню</system:String>
+    <system:String x:Key="nameCoin">Ім'я</system:String>
+    <system:String x:Key="rankCoin">Рейтинг</system:String>
+    <system:String x:Key="symbolCoin">Символ</system:String>
+    <system:String x:Key="sypplyCoin">Постачання</system:String>
+    <system:String x:Key="maxSypplyCoin">Максимальне постачання</system:String>
+    <system:String x:Key="marketCapUsdCoin">Ринкова капіталізація($)</system:String>
+    <system:String x:Key="volumeUsd24HrCoin">Обсяг за 24г($)</system:String>
+    <system:String x:Key="priceUsd">Ціна</system:String>
+    <system:String x:Key="changePercent24HrCoin">Зміна за 24г(%)</system:String>
+    <system:String x:Key="vwap24HrCoin">VWAP за 24г</system:String>
+    <system:String x:Key="explorerCoin">Посилання</system:String>
+    <system:String x:Key="minimizeWindow">Згорнути</system:String>
+    <system:String x:Key="closeWindow">Закрити</system:String>
+    <system:String x:Key="themesSlider">Зміна теми</system:String>
+    <system:String x:Key="outputCurrency">Вихідні дані</system:String>
+    <system:String x:Key="inputCurrency">Вхідні дані</system:String>
+    <system:String x:Key="NationalCurrency">Національна валюта та криптовалюта</system:String>
+    <system:String x:Key="convertCurrencyButton">Конвертувати</system:String>
+    <system:String x:Key="rankCoinToolTip">Рейтингове місце</system:String>
+    <system:String x:Key="nameCoinToolTip">Назва активу</system:String>
+    <system:String x:Key="symbolCoinToolTip">Найбільш поширений символ</system:String>
+    <system:String x:Key="sypplyCoinToolTip">Доступний обсяг для торгівлі</system:String>
+    <system:String x:Key="maxSypplyCoinToolTip">Загальна кількість виданого активу</system:String>
+    <system:String x:Key="marketCapUsdCoinToolTip">Обсяг x ціна</system:String>
+    <system:String x:Key="volumeUsd24HrCoinToolTip">Кількість торгового обсягу, представленого в USD за останні 24 години</system:String>
+    <system:String x:Key="priceUsdToolTip">Зважена ціна на основі реальних даних ринку, перекладена в USD</system:String>
+    <system:String x:Key="changePercent24HrCoinToolTip">Обсягово зважена середня ціна за останні 24 години</system:String>
+    <system:String x:Key="vwap24HrCoinToolTip">Напрям та зміна значення за останні 24 години</system:String>
+    <system:String x:Key="explorerCoinToolTip">Сайт активу</system:String>
+    <system:String x:Key="ChooseRadioButton">Ввести</system:String>
+    <system:String x:Key="EnterRadioButton">Вибрати</system:String>
+
+</ResourceDictionary>

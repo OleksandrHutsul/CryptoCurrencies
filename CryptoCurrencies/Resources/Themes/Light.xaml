@@ -1,0 +1,50 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style x:Key="WindowStyle" TargetType="Window">
+        <Setter Property="Background" Value="#FFcecece" />
+    </Style>
+    <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="#FF1D222C" />
+        <Setter Property="Foreground" Value="#FFcecece" />
+        <Setter Property="BorderBrush" Value="#FF1D222C" />
+    </Style>
+    <Style x:Key="LabelStyle" TargetType="Label">
+        <Setter Property="Foreground" Value="#FF1D222C" />
+    </Style>
+    <Style x:Key="MenuStyle" TargetType="Menu">
+        <Setter Property="Background" Value="#FF1D222C" />
+        <Setter Property="Foreground" Value="#FFcecece" />
+        <Setter Property="BorderBrush" Value="#FF1D222C" />
+    </Style>
+    <Style x:Key="MenuItemStyle" TargetType="MenuItem">
+        <Setter Property="Background" Value="#FF1D222C" />
+        <Setter Property="Foreground" Value="#FFcecece" />
+        <Setter Property="BorderBrush" Value="#FF1D222C" />
+    </Style>
+    <Style x:Key="TextBoxStyle" TargetType="TextBox">
+        <Style.Triggers>
+            <Trigger Property="IsEnabled" Value="False">
+                <Setter Property="Background" Value="#FF1D222C" />
+                <Setter Property="Foreground" Value="#FFcecece" />
+                <Setter Property="BorderBrush" Value="#FFcecece" />
+            </Trigger>
+            <Trigger Property="IsEnabled" Value="True">
+                <Setter Property="Background" Value="#FF1D222C" />
+                <Setter Property="Foreground" Value="#FFcecece" />
+                <Setter Property="BorderBrush" Value="#FFcecece" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+        <Setter Property="Background" Value="#FF1D222C" />
+        <Setter Property="Foreground" Value="#FFcecece" />
+        <Setter Property="BorderBrush" Value="#FFcecece" />
+    </Style>
+    <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+        <Setter Property="Background" Value="#FF1D222C" />
+        <Setter Property="Foreground" Value="#FFcecece" />
+    </Style>
+    <Style x:Key="RadioButtonStyle" TargetType="RadioButton">
+        <Setter Property="Foreground" Value="#FF1D222C" />
+    </Style>
+</ResourceDictionary>
